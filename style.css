@@ -5,7 +5,7 @@ github：https://github.com/5iux/5iux.github.io
 日期：2020-09-24
 版权所有，请勿删除
 */
-body{ font-size: 14px; background: #0f2540; overflow-x:hidden;  }
+body{ font-size: 14px; bgcolor: #0f2540; overflow-x:hidden;  }
 a{text-decoration: none;}
 a:hover{text-decoration: none;}
 svg.icon { width: 14px; height: 14px; margin: 0 5px 0 8px; vertical-align: -0.15em; fill: currentColor; overflow: hidden;}
